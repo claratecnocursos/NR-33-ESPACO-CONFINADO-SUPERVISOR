@@ -17,7 +17,7 @@
   // "100%" vira extenso para a voz não ler "por cento" errado.
   var HOME_TEXT = [
     'Segurança do Trabalho.',
-    'N R trinta e três. Treinamento para Trabalhador Autorizado e Vigia em Espaços Confinados.',
+    'N R trinta e três. Treinamento para Supervisor de Entrada em Espaços Confinados.',
     'Norma e riscos, capacitação da equipe, PET e gases, EPIs e primeiros socorros.',
     'Quatro módulos completos. Treinamento cem por cento online.',
     'Toque em iniciar o treinamento.'

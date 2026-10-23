@@ -9,7 +9,7 @@ window.__AUDIO_NARRATION__ = {
       "id": "home-nr11",
       "title": "Abertura",
       "file": "audios/home-nr11.mp3",
-      "text": "Segurança do Trabalho. N R trinta e três. Treinamento para Trabalhador Autorizado e Vigia em Espaços Confinados. Norma e riscos, capacitação da equipe, P E T e gases, E P Is e primeiros socorros. quatro módulos completos. Treinamento cem por cento online. Toque em iniciar o treinamento.",
+      "text": "Segurança do Trabalho. N R trinta e três. Treinamento para Supervisor de Entrada em Espaços Confinados. Norma e riscos, capacitação da equipe, P E T e gases, E P Is e primeiros socorros. quatro módulos completos. Treinamento cem por cento online. Toque em iniciar o treinamento.",
       "audioReady": true
     },
     {
